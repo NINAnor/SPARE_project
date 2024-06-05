@@ -4,3 +4,4 @@ bibliography: references.bib
 
 ## Velkommen {.unnumbered}
 
+Dette arbeidet er en del av SPARE-prosjektet, som har som mål å fremskaffe kunnskap, evidensbaserte forvaltningsmetoder og verktøy for å bedre integrere klimatilpasning (med fokus på overvannshåndtering), støtte til biologisk mangfold og rekreasjon i forvaltningen av byområder ved å bruke BGI for å muliggjøre SPARE-forvaltning og legge til rette for overgangen til blågrønne byer.
