@@ -5,3 +5,5 @@ Mål: En interaktiv GIS-kartportal inneholder digitale kart som viser kartene fr
 Figur
 
 ![Bynatur_Atlas](Bynatur_atlas_figure.PNG)
+
+test
