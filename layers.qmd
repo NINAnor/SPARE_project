@@ -1,8 +1,8 @@
 # Kartlagene
-T6.5 i arbeidspakke 6 fokuserer på å utvikle en interaktiv GIS-plattform for kartformidling basert på romlige data om motstandskraft (overvann, biologisk mangfold og rekreasjon). Dette kartet kan du finne under denne lenken  https://experience.arcgis.com/experience/5f702504313c4cedad1eab4791203b4b/. 
+Det fokuserer på å utvikle en interaktiv GIS-plattform for kartformidling basert på romlige data om motstandskraft (overvann, biologisk mangfold og rekreasjon). Dette kartet kan du finne under denne lenken [ArcGIS online](https://experience.arcgis.com/experience/5f702504313c4cedad1eab4791203b4b/). 
 
 
-For å bruke opplevelsesbyggeren i ArcGIS online, må du først aktivere sveipewidgeten (nede i midten av siden), som gir mulighet til å vise lag ved siden av hverandre eller ett lag i venstre side og det grå grunnkartet på høyre side. Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kategoriene inkluderer Grunnkart, Areal, Tilstand-Biodiversitet, Tilstand og Økosystemtjeneste. Alle lagene er inaktive, og du må klikke på øyetegnet for å aktivere dem. Ved siden av lagfanen finner du kartets tegnforklaring. Hver gang du åpner et lag, vises også tegnforklaringen. Når du åpner et lag, zoomer du, og du kan klikke i en blokk og få informasjon i en tabell som vises ved siden av blokken.
+For å bruke portalen i ArcGIS online, må du først aktivere sveipewidgeten (nede i midten av siden), som gir mulighet til å vise lag ved siden av hverandre eller ett lag i venstre side og det grå grunnkartet på høyre side. Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kategoriene inkluderer Grunnkart, Areal, Tilstand-Biodiversitet, Tilstand og Økosystemtjeneste. Alle lagene er inaktive, og du må klikke på øyetegnet for å aktivere dem. Ved siden av lagfanen finner du kartets tegnforklaring. Hver gang du åpner et lag, vises også tegnforklaringen. Når du åpner et lag, zoomer du, og du kan klikke i en blokk og få informasjon i en tabell som vises ved siden av blokken.
 
 ## Grunnkart
 
