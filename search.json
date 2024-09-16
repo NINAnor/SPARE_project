@@ -78,5 +78,15 @@
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kartlagene</span>"
     ]
+  },
+  {
+    "objectID": "database.html",
+    "href": "database.html",
+    "title": "3  Database",
+    "section": "",
+    "text": "Denne portalen gjør det mulig å laste ned kartlagene for videre bruk.\nDatabase",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Database</span>"
+    ]
   }
 ]
