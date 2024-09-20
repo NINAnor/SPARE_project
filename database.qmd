@@ -2,4 +2,4 @@
 
 Denne portalen gjør det mulig å laste ned kartlagene for videre bruk.
 
-[Database](https://maps-test.nina.no/datasets/localEA) 
+[Database](https://maps.nina.no/datasets/localEA) 
