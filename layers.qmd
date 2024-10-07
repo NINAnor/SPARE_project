@@ -1,5 +1,5 @@
 # Kartlagene
-Det fokuserer på å utvikle en interaktiv GIS-plattform for kartformidling basert på romlige data om motstandskraft (overvann, biologisk mangfold og rekreasjon). Dette kartet kan du finne under denne lenken [ArcGIS online](https://experience.arcgis.com/experience/e91c22a87465403ba961fb307dcbf2bb/). 
+Det fokuserer på å utvikle en interaktiv GIS-plattform for kartformidling basert på romlige data om motstandskraft (overvann, biologisk mangfold og rekreasjon). Dette kartet kan du finne under denne lenken [ArcGIS online](https://experience.arcgis.com/experience/e91c22a87465403ba961fb307dcbf2bb/) (*Dere bør åpne den i Google Chrome eller Firefox for å få den beste opplevelsen*). 
 
 
 For å bruke portalen i ArcGIS online, må du først aktivere sveipewidgeten (nede i midten av siden), som gir mulighet til å vise lag ved siden av hverandre eller ett lag i venstre side og det grå grunnkartet på høyre side. Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kategoriene inkluderer Grunnkart, Areal, Tilstand-Biodiversitet, Tilstand og Økosystemtjeneste. Alle lagene er inaktive, og du må klikke på øyetegnet for å aktivere dem. Ved siden av lagfanen finner du kartets tegnforklaring. Hver gang du åpner et lag, vises også tegnforklaringen. Når du åpner et lag, zoomer du, og du kan klikke i en blokk og få informasjon i en tabell som vises ved siden av blokken.
@@ -40,9 +40,18 @@ Den viser den urbane morfologien til kvartalene i Oslo byggesonen.
 
 **Befolkningsetthet per grunnkretser (fra NINA, 2022)**
 
-It shows the population density per grunnkretser. Low values means low demand for tree planting due to low population density and high values means high demand for tree planting due to high population density.
+Den viser befolkningstettheten per grunnkretser. Lave verdier betyr lav etterspørsel etter treplanting på grunn av lav befolkningstetthet, og høye verdier betyr høy etterspørsel etter treplanting på grunn av høy befolkningstetthet.
+
+**Friluftslivområder (fra Miljodirektoratet, 2021)**
+
+Den viser områder som er kartlagt og verdsatt å gi en oversikt over områder som er viktige for allmennhetens friluftsliv.
 
 ## Areal
+
+**Nedbygging (fra NINA, 2024)**
+
+NINA brukte en AI-modell laget av Google og satellittbilder for å kartlegge nedbygging i Norge de siste fem årene i forbindelse med NRK-saken «Norge i rødt, hvitt og grått».
+[NINA, 2024](https://www.nina.no/Om-NINA/Aktuelt/Nyheter/article/kartlegg-nedbygging-av-natur-selv)
 
 **Parker (fra BYM, Oslo Kommune, 2020)**
 
@@ -62,6 +71,9 @@ Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter trepl
 
 Den viser området for fri honningbi.
 
+**Naturvernområder (fra Miljodirektoratet, 2021)**
+
+Den gir en oversikt over hvilke områder som er vernet etter følgende lover: Naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, naturvernloven av 1954, Jan Mayen-loven av 1930 og naturvernloven av 1910.
 
 ## Tilstand
 
@@ -96,6 +108,15 @@ Synligheten av treplantingssteder viser lave verdier som lav egnethet for planle
 Tilgjengeligheten til sammenhengende trekroner ble beregnet basert på det tilgjengelige arealet av middels små, middels store og store sammenhengende trekroner med en høyde på over 10 m innenfor en avstand på 200 m. Lave verdier viser høy etterspørsel etter planting av nye trær på grunn av lav tilgjengelighet, og høye verdier viser lav etterspørsel etter planting av nye trær på grunn av høy tilgjengelighet.
 
 ## Økosystemtjeneste
+
+**Friluftslivområder verdi (fra Miljodirektoratet, 2021)**
+
+Den viser områder som er spesielt egnet for friluftsliv, der folk kan oppholde seg og nyte naturen på en ikke-motorisert og skånsom måte. Disse områdene har en viktig verdi for både fysisk og psykisk helse, rekreasjon og trivsel.Friluftslivsområdene er kartlagt, beskrevet og basert på tildelt score er områdene blitt kategorisert som:
+
+A - Svært viktig friluftslivsområde
+B - Viktig friluftsområde
+C - Registrert friluftsområde
+D - Ikke verdisatt friluftsområde
 
 **Trekronesynlighet (fra NINA, 2022)**
 
