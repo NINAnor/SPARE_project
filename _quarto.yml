@@ -3,7 +3,7 @@ project:
   output-dir: _book
   
 book:
-  title: "Bynatur Atlas"
+  title: "Blågrønn kartportal"
   author: "Maria Korkou"
   description: | 
     SPARE Project - Space for resilience (SPARE) - how do we plan for stormwater, biodiversity and recreation to increase urban resilience?
