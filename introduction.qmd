@@ -4,4 +4,4 @@ Mål: En interaktiv GIS-kartportal inneholder digitale kart som viser kartene fr
 
 Figur
 
-![Bynatur_Atlas](Blagronn_kartportal_figur.PNG)
+![](Blagronn_kartportal_figur.PNG)

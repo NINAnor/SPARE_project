@@ -15,7 +15,8 @@ book:
     - index.qmd
     - introduction.qmd
     - layers.qmd
-    - database.qmd 
+    - database.qmd
+    - references.qmd 
     
 format:
   html: 
