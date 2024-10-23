@@ -107,6 +107,26 @@ Synligheten av treplantingssteder viser lave verdier som lav egnethet for planle
 
 Tilgjengeligheten til sammenhengende trekroner ble beregnet basert på det tilgjengelige arealet av middels små, middels store og store sammenhengende trekroner med en høyde på over 10 m innenfor en avstand på 200 m. Lave verdier viser høy etterspørsel etter planting av nye trær på grunn av lav tilgjengelighet, og høye verdier viser lav etterspørsel etter planting av nye trær på grunn av høy tilgjengelighet.
 
+**Flatehogst (fra Global Forest Watch, 2023)**
+
+Den viser resultatene fra tidsserieanalyse av Landsat-bilder i karakterisering av global skogutstrekning og endring fra 2000 til 2023.
+[Global Forest Change 2000-2023](https://storage.googleapis.com/earthenginepartners-hansen/GFC-2023-v1.11/download.html)
+
+**3 trær fra hjem (fra NINA, 2024)**
+
+Dette laget er basert på 3 30 300-regelen. Alle beboere må kunne se minst tre trær fra hjemmet sitt.
+[Kartlegging og verdsetting av bytrærs betydning for økosystemtjenester i Bodø, Bærum, Kristiansand og Oslo. Trekroner-prosjektet](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
+
+**30% trekronedekning (fra NINA, 2024)**
+
+Dette laget er basert på 3 30 300-regelen.  Det bør være minst 30 % dekning av trekronene i nabolaget.
+[Kartlegging og verdsetting av bytrærs betydning for økosystemtjenester i Bodø, Bærum, Kristiansand og Oslo. Trekroner-prosjektet](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
+
+**300 meter til nærmeste grøntområde (fra NINA, 2024)**
+
+Dette laget er basert på 3 30 300-regelen.  Det bør være maksimalt 300 meter til nærmeste park eller grøntområde på minst 1 hektar. 
+[Kartlegging og verdsetting av bytrærs betydning for økosystemtjenester i Bodø, Bærum, Kristiansand og Oslo. Trekroner-prosjektet](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
+
 ## Økosystemtjeneste
 
 **Friluftslivområder verdi (fra Miljodirektoratet, 2021)**
