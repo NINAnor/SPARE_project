@@ -115,17 +115,17 @@ Den viser resultatene fra tidsserieanalyse av Landsat-bilder i karakterisering a
 **3 trær fra hjem (fra NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Alle beboere må kunne se minst tre trær fra hjemmet sitt.
-[Kartlegging og verdsetting av bytrærs betydning for økosystemtjenester i Bodø, Bærum, Kristiansand og Oslo. Trekroner-prosjektet](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
+[Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
 **30% trekronedekning (fra NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen.  Det bør være minst 30 % dekning av trekronene i nabolaget.
-[Kartlegging og verdsetting av bytrærs betydning for økosystemtjenester i Bodø, Bærum, Kristiansand og Oslo. Trekroner-prosjektet](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
+[Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
 **300 meter til nærmeste grøntområde (fra NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen.  Det bør være maksimalt 300 meter til nærmeste park eller grøntområde på minst 1 hektar. 
-[Kartlegging og verdsetting av bytrærs betydning for økosystemtjenester i Bodø, Bærum, Kristiansand og Oslo. Trekroner-prosjektet](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
+[Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
 ## Økosystemtjeneste
 
