@@ -31,12 +31,13 @@ Kartene viser altså hvilke veier som kan anbefales som trinn 1 og trinn 2 ut fr
 
 **Arealregnskap-Økosystemtype (fra NIBIO, 2024)**
 
-Den viser økosystemtypen.
+Den gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer som et grunnlag for arealregnskap. Det viser klassifiseringer som bebygde områder, jordbruksarealer, skog og vannforekomster, og gir et klart bilde av hvordan arealene brukes. Dette laget er viktig for å overvåke endringer i arealbruk og støtte bærekraftig planlegging og ressursforvaltning.
 [NIBIO, 2024](https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon-wms/c7dc425b-60cd-42f7-a84e-202c7d7b912a)
 
 **Bymorfologiklassifisering for blokker (fra NINA, 2022)**
 
-Den viser den urbane morfologien til kvartalene i Oslo byggesonen.
+Klassifisering av bymorfologi organiserer urbane kvartaler i fem hovedgrupper, som hver er delt inn i to nært beslektede undergrupper. Ved hjelp av en maskinlæringsbasert GIS-kartleggingsprosess gjør denne tilnærmingen det mulig å identifisere distinkte urbane morfologityper på tvers av byområder.
+[NINA, 2024] (link to the report to be added)
 
 **Befolkningsetthet per grunnkretser (fra NINA, 2022)**
 
