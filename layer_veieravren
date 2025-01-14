@@ -1,0 +1,6 @@
+Dette innebærer også at en trinn 2-vei ikke kan ha overløp. 
+Den utviklede metoden for å utpeke disse veiene inneholder en parameter som klassifiseres på en skala fra 1 til 4. 
+Parameteren er fleksibel og kontekstavhengig. På grunn av de topografiske forholdene i Oslo og antakelsen om at det er en viktig sammenheng mellom en veis helning og dens evne til å holde tilbake og forsinke avrenning, er det funnet hensiktsmessig å basere denne parameteren på helningen når Oslo er caseområdet. 
+I tillegg brukes veikapasiteten til utpekingen. For at veier skal oppfylle kravene til trinn 2-veier, må kapasiteten økes, det vil si at dybden må justeres til en verdi som er høyere enn størrelsen på den tilsvarende nedbørshendelsen med 5 års returperiode. 
+I motsatt fall vil trinn 2-veien bare kunne oppfylle krav 1. Basert på lignende klimatilpasningsprosjekter på veier i København er dybden på de utpekte trinn 2-veiene satt til 0,40 m (Jensen, 2023). Dybden skal igjen kun ses på som et nødvendig mål for å beregne kapasiteten til veiene og illustrere prinsippet bak den utviklede metoden.» 
+Kartene viser altså hvilke veier som kan anbefales som trinn 1 og trinn 2 ut fra en antakelse om at disse to veitypene til sammen skal kunne håndtere et 20 mm regn uten overløp til lavereliggende områder, og med en maksimal magasineringsdybde på 40 cm på trinn 2-gatene.
