@@ -8,7 +8,7 @@ For å bruke portalen i ArcGIS online, må du først aktivere sveipewidgeten (ne
 
 **Oslo byggesonen (fra PBE, 2017)**
 
-Den viser grensene til Oslo byggesonen.
+"Oslo byggesonen grensere" viser grensene for byggesonen i Oslo, som markerer de områdene som er regulert for utbygging og urban utvikling. Laget skiller mellom bebygde områder og områder som er avsatt til marka, natur, eller landbruk. 
 
 **Bydeler byggesonen (fra PBE, 2016)**
 
@@ -45,6 +45,7 @@ Den viser befolkningstettheten per grunnkretser. Lave verdier betyr lav ettersp�
 **Friluftslivområder (fra Miljodirektoratet, 2021)**
 
 Den viser områder som er kartlagt og verdsatt å gi en oversikt over områder som er viktige for allmennhetens friluftsliv.
+[Miljodirektoratet, 2021](https://www.miljodirektoratet.no/globalassets/publikasjoner/m98/m98.PDF)
 
 ## Areal
 
