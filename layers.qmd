@@ -12,11 +12,13 @@ For å bruke portalen i ArcGIS online, må du først aktivere sveipewidgeten (ne
 
 **Bydeler byggesonen (fra PBE, 2016)**
 
-Den viser grensene for bydeler byggesonen.
+"Oslo Bydeler byggesonen grensere" viser grensene for byggesonen fordelt på bydelene i Oslo. Den nåværende bydelsinndelingen består av 15 bydeler, i tillegg til Sentrum og Marka. Hver bydel fungerer som en administrativ enhet i Oslo kommune.
+[PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
 **Grunnkretser byggesonen (fra PBE, 2016)**
 
-Den viser grensene for grunnkretser byggesonen. 
+Den viser grensene for grunnkretser byggesonen. En grunnkrets er en permanent inndeling som deler kommunene inn i mindre geografiske enheter.
+[PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
 **Veier-avrenning 20mm**
 **Veier-avrenning 50mm (fra Københavns Universitet)**
