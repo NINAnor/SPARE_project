@@ -91,7 +91,8 @@ Den viser luftforurensningen, der lave verdier betyr lav etterspørsel etter tre
 
 **Trekroner (fra NINA, 2021)**
 
-Den viser hvor trærne befinner seg.
+Trekroner-kartlaget i Oslo byggesonen viser utbredelsen av trekroner innenfor de urbaniserte områdene av byen. 
+Laget gir en visuell oversikt over hvor trær bidrar til grønnstruktur og økosystemtjenester i byggesonen.
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
 **Bakketemperatur (fra NINA, 2022)**
