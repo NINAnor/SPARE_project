@@ -58,7 +58,8 @@ NINA brukte en AI-modell laget av Google og satellittbilder for å kartlegge ned
 
 **Parker (fra BYM, Oslo Kommune, 2020)**
 
-Den viser hvor parkene ligger i Oslo.
+Laget «Parks of Oslo Built-Up Area» viser plasseringen og grensene til parker i de urbaniserte områdene i Oslo. 
+Det gir detaljert geografisk informasjon om grønne områder som er tilgjengelige for rekreasjon, fritid og biologisk mangfold innenfor byens bebygde soner. 
 
 ## Tilstand-Biodiversitet
 
@@ -84,7 +85,7 @@ Den gir en oversikt over hvilke områder som er vernet etter følgende lover: Na
 
 Den viser avstanden fra skolebygninger basert på den euklidske avstanden. Den er klassifisert i tre kategorier: a) Avstand <= 50 m: 0, b) 50 m < Avstand <= 200 m: 0,5, c) Avstand > 200 m: 1. Lave verdier indikerer høy etterspørsel etter treplanting på grunn av kort avstand til skolen, og høye verdier indikerer lav etterspørsel etter treplanting på grunn av lang avstand til skolen.
 
-**Luftforurensing (fra BYM Oslo Kommune, 2022)**
+**Luftforurensing (fra BYM, 2022)**
 
 Den viser luftforurensningen, der lave verdier betyr lav etterspørsel etter treplanting på grunn av lav luftforurensning, og høye verdier betyr høy etterspørsel etter treplanting på grunn av høy luftforurensning..
 
