@@ -58,7 +58,7 @@ NINA brukte en AI-modell laget av Google og satellittbilder for å kartlegge ned
 
 **Parker (fra BYM, Oslo Kommune, 2020)**
 
-Laget «Parks of Oslo Built-Up Area» viser plasseringen og grensene til parker i de urbaniserte områdene i Oslo. 
+Laget «Parker» viser plasseringen og grensene til parker i de urbaniserte områdene i Oslo. 
 Det gir detaljert geografisk informasjon om grønne områder som er tilgjengelige for rekreasjon, fritid og biologisk mangfold innenfor byens bebygde soner. 
 
 ## Tilstand-Biodiversitet
