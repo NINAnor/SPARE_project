@@ -73,7 +73,8 @@ Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter trepl
 
 **Honning bie frie soner**
 
-Den viser området for fri honningbi.
+Kartlaget "Honningbie-frie soner i Oslo byggesonen" viser områder innenfor byggesonen hvor det er restriksjoner på hold av honningbier. 
+Disse sonene er opprettet for å beskytte villbier og andre pollinatorer som kan bli påvirket av konkurranse med honningbier.
 
 **Naturvernområder (fra Miljodirektoratet, 2021)**
 
@@ -87,7 +88,7 @@ Den viser avstanden fra skolebygninger basert på den euklidske avstanden. Den e
 
 **Luftforurensing (fra BYM, 2022)**
 
-Den viser luftforurensningen, der lave verdier betyr lav etterspørsel etter treplanting på grunn av lav luftforurensning, og høye verdier betyr høy etterspørsel etter treplanting på grunn av høy luftforurensning..
+Den viser luftforurensningen, der lave verdier betyr lav etterspørsel etter treplanting på grunn av lav luftforurensning, og høye verdier betyr høy etterspørsel etter treplanting på grunn av høy luftforurensning.
 
 **Trekroner (fra NINA, 2021)**
 
