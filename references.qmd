@@ -8,4 +8,6 @@ Cimburova, Z., & Barton, D. N. (2020). The potential of geospatial analysis and 
 
 Cimburova, Z., & Blumentrath, S. (2022). Viewshed-based modelling of visual exposure to urban greenery–An efficient GIS tool for practical planning applications. Landscape and Urban Planning, 222, 104395.
 
+Stange, E., Zulian, G., Rusch, G., Barton, D., & Nowell, M. (2017). Ecosystem services mapping for municipal policy: ESTIMAP and zoning for urban beekeeping. One Ecosystem, 2, e14014.
+
 Venter, Z. S., Krog, N. H., & Barton, D. N. (2020). Linking green infrastructure to urban heat and human health risk mitigation in Oslo, Norway. Science of the Total Environment, 709, 136193.

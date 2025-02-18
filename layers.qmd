@@ -30,7 +30,7 @@ Laget viser en metode for utvelgelse av gater til trinn 1 og trinn 2 i tretrinns
 
 [Se notatblokktekstfil](https://github.com/NINAnor/SPARE_project/blob/main/layer_veieravren.txt)
 
-**Arealregnskap-Økosystemtype (Geonorge, 2024)**
+**Grunnkart for bruk i arealregnskap (Geonorge, 2024)**
 
 Den gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer som et grunnlag for arealregnskap. Det viser klassifiseringer som bebygde områder, jordbruksarealer, skog og vannforekomster, og gir et klart bilde av hvordan arealene brukes. Dette laget er viktig for å overvåke endringer i arealbruk og støtte bærekraftig planlegging og ressursforvaltning.
 [NIBIO, 2024](https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon-wms/c7dc425b-60cd-42f7-a84e-202c7d7b912a)
@@ -70,6 +70,7 @@ Den viser trekorridorene som er avledet fra en konstruert buffer med en radius p
 **Egnethet for pollinerende insekter (NINA, 2022)**
 
 Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter treplanting på grunn av høyt pollinatorpotensial - og høye verdier - høy etterspørsel etter treplanting på grunn av lavt pollinatorpotensial.
+[Stange et al., 2017](https://doi.org/10.3897/oneeco.2.e14014)
 
 **Honning bie frie soner**
 
