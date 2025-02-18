@@ -10,18 +10,18 @@ Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kate
 
 "Oslo byggesonen grensere" viser grensene for byggesonen i Oslo, som markerer de områdene som er regulert for utbygging og urban utvikling. Laget skiller mellom bebygde områder og områder som er avsatt til marka, natur, eller landbruk. 
 
-**Bydeler byggesonen (fra PBE, 2016)**
+**Bydeler byggesonen (PBE, 2016)**
 
 "Oslo Bydeler byggesonen grensere" viser grensene for byggesonen fordelt på bydelene i Oslo. Den nåværende bydelsinndelingen består av 15 bydeler, i tillegg til Sentrum og Marka. Hver bydel fungerer som en administrativ enhet i Oslo kommune.
 [PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
-**Grunnkretser byggesonen (fra PBE, 2016)**
+**Grunnkretser byggesonen (PBE, 2016)**
 
 Den viser grensene for grunnkretser byggesonen. En grunnkrets er en permanent inndeling som deler kommunene inn i mindre geografiske enheter.
 [PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
 **Veier-avrenning 20mm**
-**Veier-avrenning 50mm (fra Københavns Universitet)**
+**Veier-avrenning 50mm (Københavns Universitet)**
 
 Laget viser en metode for utvelgelse av gater til trinn 1 og trinn 2 i tretrinnsmetoden til Oslo (fra Københavns universitet). «Siden alle veier skal kunne oppfylle kravene i trinn 1, er utpeking av trinn 2-veier det sentrale aspektet ved metoden. En trinn 2-vei innebærer fordrøyning av avrenning fra området og omgivelsene med et servicenivå som tilsvarer en nedbørshendelse med en returperiode på 5 år. Dette fører til følgende to krav til en trinn 2-vei:
 
@@ -30,29 +30,29 @@ Laget viser en metode for utvelgelse av gater til trinn 1 og trinn 2 i tretrinns
 
 [Se notatblokktekstfil](https://github.com/NINAnor/SPARE_project/blob/main/layer_veieravren.txt)
 
-**Arealregnskap-Økosystemtype (fra NIBIO, 2024)**
+**Arealregnskap-Økosystemtype (Geonorge, 2024)**
 
 Den gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer som et grunnlag for arealregnskap. Det viser klassifiseringer som bebygde områder, jordbruksarealer, skog og vannforekomster, og gir et klart bilde av hvordan arealene brukes. Dette laget er viktig for å overvåke endringer i arealbruk og støtte bærekraftig planlegging og ressursforvaltning.
 [NIBIO, 2024](https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon-wms/c7dc425b-60cd-42f7-a84e-202c7d7b912a)
 
-**Bymorfologiklassifisering for blokker (fra NINA, 2022)**
+**Bymorfologiklassifisering for blokker (NINA, 2022)**
 
 Klassifisering av bymorfologi organiserer urbane kvartaler i fem hovedgrupper, som hver er delt inn i to nært beslektede undergrupper. Ved hjelp av en maskinlæringsbasert GIS-kartleggingsprosess gjør denne tilnærmingen det mulig å identifisere distinkte urbane morfologityper på tvers av byområder.
 [NINA, ](dokumentasjon under arbeid)
 
-**Befolkningsetthet per grunnkretser (fra SSB, 2022)**
+**Befolkningsetthet per grunnkretser (SSB, 2022)**
 
 Den viser befolkningstettheten per grunnkrets. 
 [SSB, ](add link)
 
-**Friluftslivområder (fra Miljodirektoratet, 2021)**
+**Friluftslivområder (Miljodirektoratet, 2021)**
 
 Områder som er kartlagt og verdsatt av kommunen for allmennhetens friluftsliv.
 [Miljodirektoratet, 2021](https://www.miljodirektoratet.no/globalassets/publikasjoner/m98/m98.PDF)
 
 ## Areal
 
-**Nedbygging (fra NINA, 2024)**
+**Nedbygging (NINA, 2024)**
 
 NINA brukte en KI-modell laget av Google Dynamic World basert på satellittbilder for å kartlegge nedbygging i Norge de siste fem årene i forbindelse med NRK-saken «Norge i rødt, hvitt og grått».
 [NINA, 2024](https://www.nina.no/Om-NINA/Aktuelt/Nyheter/article/kartlegg-nedbygging-av-natur-selv)
@@ -63,11 +63,11 @@ Laget «Parker» viser grøntområder forvaltet av Bymiljøetaten og bydelene.
 
 ## Tilstand-Biodiversitet
 
-**Trekkoridorer (fra NINA, 2022)**
+**Trekkoridorer (NINA, 2022)**
 
 Den viser trekorridorene som er avledet fra en konstruert buffer med en radius på 20 meter rundt elver og en buffer med en radius på 12 meter rundt bekker.
 
-**Egnethet for pollinerende insekter (fra NINA, 2022)**
+**Egnethet for pollinerende insekter (NINA, 2022)**
 
 Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter treplanting på grunn av høyt pollinatorpotensial - og høye verdier - høy etterspørsel etter treplanting på grunn av lavt pollinatorpotensial.
 
@@ -76,17 +76,14 @@ Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter trepl
 Kartlaget "Honningbie-frie soner i Oslo byggesonen" viser områder innenfor byggesonen hvor det er restriksjoner på hold av honningbier. 
 Disse sonene er opprettet for å beskytte villbier og andre pollinatorer som kan bli påvirket av konkurranse med honningbier.
 
-**Naturvernområder (fra Miljodirektoratet, 2021)**
+**Naturvernområder (Miljodirektoratet, 2021)**
 
 Den gir en oversikt over hvilke områder som er vernet etter følgende lover: Naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, naturvernloven av 1954, Jan Mayen-loven av 1930 og naturvernloven av 1910.
 
 ## Tilstand
 
-**Avstand til Skoler (fra NINA, 2022)**
 
-Den viser avstanden fra skolebygninger basert på den euklidske avstanden. Den er klassifisert i tre kategorier: a) Avstand <= 50 m: 0, b) 50 m < Avstand <= 200 m: 0,5, c) Avstand > 200 m: 1. Lave verdier indikerer høy etterspørsel etter treplanting på grunn av kort avstand til skolen, og høye verdier indikerer lav etterspørsel etter treplanting på grunn av lang avstand til skolen.
-
-**Luftforurensing (fra BYM, 2022)**
+**Luftforurensing (YM, 2022)**
 
 
 
@@ -96,46 +93,42 @@ Trekroner-kartlaget i Oslo byggesonen viser utbredelsen av trekroner innenfor de
 Laget gir en visuell oversikt over hvor trær bidrar til grønnstruktur og økosystemtjenester i byggesonen.
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
-**Bakketemperatur (fra NINA, 2022)**
+**Bakketemperatur (NINA, 2022)**
 
 
 [Venter et al., 2020](https://doi.org/10.1016/j.scitotenv.2019.136193)
 
-**Overflateavrenning (fra NINA, 2022)**
+**Overflateavrenning (NINA, 2022)**
 
+[Barton et al., 2021](https://niva.brage.unit.no/niva-xmlui/bitstream/handle/11250/2984562/BartonBrukerfinansiertVann2021bl%25C3%25A5.pdf?sequence=1&isAllowed=y)
 
-
-**Potensiale for trekronesynlighet (fra NINA, 2022)**
+**Potensiale for trekronesynlighet (NINA, 2022)**
 
 Synligheten av treplantingssteder viser lave verdier som lav egnethet for planlegging av nye trær på grunn av lav synlighet av plantede trær, og høye verdier som høy egnethet for planting av nye trær på grunn av høy synlighet av plantede trær.
 
-**Tilgjengelig areal av større treklynger (fra NINA, 2022)**
+**Tilgjengelig areal av større treklynger (NINA, 2022)**
 
 Tilgjengeligheten til sammenhengende trekroner ble beregnet basert på det tilgjengelige arealet av middels små, middels store og store sammenhengende trekroner med en høyde på over 10 m innenfor en avstand på 200 m. Lave verdier viser høy etterspørsel etter planting av nye trær på grunn av lav tilgjengelighet, og høye verdier viser lav etterspørsel etter planting av nye trær på grunn av høy tilgjengelighet.
 
-**Flatehogst (fra Global Forest Watch, 2023)**
 
-Den viser resultatene fra tidsserieanalyse av Landsat-bilder i karakterisering av global skogutstrekning og endring fra 2000 til 2023.
-[Global Forest Change 2000-2023](https://storage.googleapis.com/earthenginepartners-hansen/GFC-2023-v1.11/download.html)
-
-**3 trær fra hjem (fra NINA, 2024)**
+**3 trær fra hjem (NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Alle beboere må kunne se minst tre trær fra hjemmet sitt. Indikatoren er beregnet per grunnkrets.
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
-**30% trekronedekning (fra NINA, 2024)**
+**30% trekronedekning (NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Det bør være minst 30 % dekning av trekronene i nabolaget. Nabolaget er definert som grunnkrets.
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
-**300 meter til nærmeste grøntområde (fra NINA, 2024)**
+**300 meter til nærmeste grøntområde (NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Det bør være maksimalt 300 meter til nærmeste park eller grøntområde på minst 1 hektar. 
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
 ## Økosystemtjeneste
 
-**Friluftslivområder verdi (fra Miljodirektoratet, 2021)**
+**Friluftslivområder verdi (Miljodirektoratet, 2021)**
 
 Den viser områder som er spesielt egnet for friluftsliv, der folk kan oppholde seg og nyte naturen på en ikke-motorisert og skånsom måte. Disse områdene har en viktig verdi for både fysisk og psykisk helse, rekreasjon og trivsel.Friluftslivsområdene er verdsatt som:
 
@@ -144,7 +137,7 @@ B - Viktig friluftsområde
 C - Registrert friluftsområde
 D - Ikke verdisatt friluftsområde
 
-**Trekronesynlighet (fra NINA, 2022)**
+**Trekronesynlighet (NINA, 2022)**
 
 
 [Cimburova & Blumentrath, 2022](https://doi.org/10.1016/j.landurbplan.2022.104395)
