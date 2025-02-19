@@ -6,18 +6,18 @@ Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kate
 
 ## Grunnkart
 
-**Oslo byggesonen (PBE, 2017)**
+**Oslo byggesone (PBE, 2017)**
 
 "Oslo byggesonen grensere" viser grensene for byggesonen i Oslo, som markerer de områdene som er regulert for utbygging og urban utvikling. Laget skiller mellom bebygde områder og områder som er avsatt til marka, natur, eller landbruk. 
 
-**Bydeler byggesonen (PBE, 2016)**
+**Bydeler (PBE, 2016)**
 
 "Oslo Bydeler byggesonen grensere" viser grensene for byggesonen fordelt på bydelene i Oslo. Den nåværende bydelsinndelingen består av 15 bydeler, i tillegg til Sentrum og Marka. Hver bydel fungerer som en administrativ enhet i Oslo kommune.
 [PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
-**Grunnkretser byggesonen (PBE, 2016)**
+**Grunnkrets (PBE, 2016)**
 
-Den viser grensene for grunnkretser byggesonen. En grunnkrets er en permanent inndeling som deler kommunene inn i mindre geografiske enheter.
+Laget viser grensene for grunnkretser byggesonen. En grunnkrets er en permanent inndeling som deler kommunene inn i mindre geografiske enheter.
 [PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
 **Veier-avrenning 20mm**
@@ -32,7 +32,7 @@ Laget viser en metode for utvelgelse av gater til trinn 1 og trinn 2 i tretrinns
 
 **Grunnkart for bruk i arealregnskap (Geonorge, 2024)**
 
-Den gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer som et grunnlag for arealregnskap. Det viser klassifiseringer som bebygde områder, jordbruksarealer, skog og vannforekomster, og gir et klart bilde av hvordan arealene brukes. Dette laget er viktig for å overvåke endringer i arealbruk og støtte bærekraftig planlegging og ressursforvaltning.
+Laget gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer som et grunnlag for arealregnskap. Det viser klassifiseringer som bebygde områder, jordbruksarealer, skog og vannforekomster, og gir et klart bilde av hvordan arealene brukes. Dette laget er viktig for å overvåke endringer i arealbruk og støtte bærekraftig planlegging og ressursforvaltning.
 [NIBIO, 2024](https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon-wms/c7dc425b-60cd-42f7-a84e-202c7d7b912a)
 
 **Bymorfologiklassifisering for blokker (NINA, 2022)**
@@ -40,9 +40,9 @@ Den gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer s
 Klassifisering av bymorfologi organiserer urbane kvartaler i fem hovedgrupper, som hver er delt inn i to nært beslektede undergrupper. Ved hjelp av en maskinlæringsbasert GIS-kartleggingsprosess gjør denne tilnærmingen det mulig å identifisere distinkte urbane morfologityper på tvers av byområder.
 [NINA, ](dokumentasjon under arbeid)
 
-**Befolkningsetthet per grunnkretser (SSB, 2022)**
+**Befolkningsetthet per grunnkrets (SSB, 2022)**
 
-Den viser befolkningstettheten per grunnkrets. 
+Laget viser befolkningstettheten per grunnkrets. 
 [SSB, ](add link)
 
 **Friluftslivområder (Miljodirektoratet, 2021)**
@@ -65,7 +65,7 @@ Laget «Parker» viser grøntområder forvaltet av Bymiljøetaten og bydelene.
 
 **Trekkoridorer (NINA, 2022)**
 
-Den viser trekorridorene som er avledet fra en konstruert buffer med en radius på 20 meter rundt elver og en buffer med en radius på 12 meter rundt bekker.
+Laget viser trekorridorene som er avledet fra en konstruert buffer med en radius på 20 meter rundt elver og en buffer med en radius på 12 meter rundt bekker.
 
 **Egnethet for pollinerende insekter (NINA, 2022)**
 
@@ -79,12 +79,12 @@ Disse sonene er opprettet for å beskytte villbier og andre pollinatorer som kan
 
 **Naturvernområder (Miljodirektoratet, 2021)**
 
-Den gir en oversikt over hvilke områder som er vernet etter følgende lover: Naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, naturvernloven av 1954, Jan Mayen-loven av 1930 og naturvernloven av 1910.
+Laget gir en oversikt over hvilke områder som er vernet etter følgende lover: Naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, naturvernloven av 1954, Jan Mayen-loven av 1930 og naturvernloven av 1910.
 
 ## Tilstand
 
 
-**Luftforurensing (YM, 2022)**
+**Luftforurensing (NILU, 2022)**
 
 [Cimburova & Blarton, 2020](https://doi.org/10.1016/j.ufug.2020.126801)
 
@@ -103,9 +103,6 @@ Laget gir en visuell oversikt over hvor trær bidrar til grønnstruktur og økos
 
 [Barton et al., 2021](https://niva.brage.unit.no/niva-xmlui/bitstream/handle/11250/2984562/BartonBrukerfinansiertVann2021bl%25C3%25A5.pdf?sequence=1&isAllowed=y)
 
-**Potensiale for trekronesynlighet (NINA, 2022)**
-
-Synligheten av treplantingssteder viser lave verdier som lav egnethet for planlegging av nye trær på grunn av lav synlighet av plantede trær, og høye verdier som høy egnethet for planting av nye trær på grunn av høy synlighet av plantede trær.
 
 **Tilgjengelig areal av større treklynger (NINA, 2022)**
 
@@ -131,7 +128,7 @@ Dette laget er basert på 3 30 300-regelen. Det bør være maksimalt 300 meter t
 
 **Friluftslivområder verdi (Miljodirektoratet, 2021)**
 
-Den viser områder som er spesielt egnet for friluftsliv, der folk kan oppholde seg og nyte naturen på en ikke-motorisert og skånsom måte. Disse områdene har en viktig verdi for både fysisk og psykisk helse, rekreasjon og trivsel.Friluftslivsområdene er verdsatt som:
+Laget viser områder som er spesielt egnet for friluftsliv, der folk kan oppholde seg og nyte naturen på en ikke-motorisert og skånsom måte. Disse områdene har en viktig verdi for både fysisk og psykisk helse, rekreasjon og trivsel.Friluftslivsområdene er verdsatt som:
 
 A - Svært viktig friluftslivsområde
 B - Viktig friluftsområde
