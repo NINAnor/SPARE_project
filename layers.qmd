@@ -23,30 +23,20 @@ Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kate
 Laget viser grensene for grunnkretser byggesonen. En grunnkrets er en permanent inndeling som deler kommunene inn i mindre geografiske enheter.
 [PBE, 2016](https://www.oslo.kommune.no/statistikk/geografiske-inndelinger/)
 
-**Veier-avrenning 20mm**
-**Veier-avrenning 50mm (Københavns Universitet)**
-
-Laget viser en metode for utvelgelse av gater til trinn 1 og trinn 2 i tretrinnsmetoden til Oslo (fra Københavns universitet). «Siden alle veier skal kunne oppfylle kravene i trinn 1, er utpeking av trinn 2-veier det sentrale aspektet ved metoden. En trinn 2-vei innebærer fordrøyning av avrenning fra området og omgivelsene med et servicenivå som tilsvarer en nedbørshendelse med en returperiode på 5 år. Dette fører til følgende to krav til en trinn 2-vei:
-
-- Må holde tilbake nedbør som treffer veiområdet.
-- Må holde tilbake overskuddsvann fra oppstrøms tilstøtende trinn 1-veier.
-
-[Se notatblokktekstfil](https://github.com/NINAnor/SPARE_project/blob/main/layer_veieravren.txt)
-
 **Grunnkart for bruk i arealregnskap (Geonorge, 2024)**
 
 Laget gir en detaljert romlig oversikt over arealbruk og arealdekke, og fungerer som et grunnlag for arealregnskap. Det viser klassifiseringer som bebygde områder, jordbruksarealer, skog og vannforekomster, og gir et klart bilde av hvordan arealene brukes. Dette laget er viktig for å overvåke endringer i arealbruk og støtte bærekraftig planlegging og ressursforvaltning.
-[NIBIO, 2024](https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon-wms/c7dc425b-60cd-42f7-a84e-202c7d7b912a)
+[Geonorge, 2024](https://kartkatalog.geonorge.no/metadata/grunnkart-for-bruk-i-arealregnskap-testversjon-wms/c7dc425b-60cd-42f7-a84e-202c7d7b912a)
 
 **Bymorfologiklassifisering for blokker (NINA, 2022)**
 
 Klassifisering av bymorfologi organiserer urbane kvartaler i fem hovedgrupper, som hver er delt inn i to nært beslektede undergrupper. Ved hjelp av en maskinlæringsbasert GIS-kartleggingsprosess gjør denne tilnærmingen det mulig å identifisere distinkte urbane morfologityper på tvers av byområder.
-[NINA, ](dokumentasjon under arbeid)
+(NINA, dokumentasjon under arbeid)
 
-**Befolkningsetthet per grunnkrets (SSB, 2022)**
+**Befolkningsetthet per grunnkrets (SSB, 2017)**
 
 Laget viser befolkningstettheten per grunnkrets. 
-[SSB, ](add link)
+[SSB, 2017](https://www.ssb.no/statbank/table/04317) 
 
 **Friluftslivområder (Miljodirektoratet, 2021)**
 
@@ -55,20 +45,11 @@ Områder som er kartlagt og verdsatt av kommunen for allmennhetens friluftsliv.
 
 ## Areal
 
-**Nedbygging (NINA, 2024)**
-
-NINA brukte en KI-modell laget av Google Dynamic World basert på satellittbilder for å kartlegge nedbygging i Norge de siste fem årene i forbindelse med NRK-saken «Norge i rødt, hvitt og grått».
-[NINA, 2024](https://www.nina.no/Om-NINA/Aktuelt/Nyheter/article/kartlegg-nedbygging-av-natur-selv)
-
 **Parker (Oslo Kommune, 2020)**
 
 Laget «Parker» viser grøntområder forvaltet av Bymiljøetaten og bydelene.  
 
 ## Tilstand-Biodiversitet
-
-**Trekkoridorer (NINA, 2022)**
-
-Laget viser trekorridorene som er avledet fra en konstruert buffer med en radius på 20 meter rundt elver og en buffer med en radius på 12 meter rundt bekker.
 
 **Egnethet for pollinerende insekter (NINA, 2022)**
 
@@ -80,12 +61,26 @@ Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter trepl
 Kartlaget "Honningbie-frie soner i Oslo byggesonen" viser områder innenfor byggesonen hvor det er restriksjoner på hold av honningbier. 
 Disse sonene er opprettet for å beskytte villbier og andre pollinatorer som kan bli påvirket av konkurranse med honningbier.
 
-**Naturvernområder (Miljodirektoratet, 2021)**
+**Naturvernområder (Miljodirektoratet, 2020)**
 
 Laget gir en oversikt over hvilke områder som er vernet etter følgende lover: Naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, naturvernloven av 1954, Jan Mayen-loven av 1930 og naturvernloven av 1910.
 
 ## Tilstand
 
+**Veier-avrenning 20mm**
+**Veier-avrenning 50mm (Københavns Universitet, 2023)**
+
+Laget viser en metode for utvelgelse av gater til trinn 1 og trinn 2 i tretrinnsmetoden til Oslo (fra Københavns universitet). «Siden alle veier skal kunne oppfylle kravene i trinn 1, er utpeking av trinn 2-veier det sentrale aspektet ved metoden. En trinn 2-vei innebærer fordrøyning av avrenning fra området og omgivelsene med et servicenivå som tilsvarer en nedbørshendelse med en returperiode på 5 år. Dette fører til følgende to krav til en trinn 2-vei:
+
+- Må holde tilbake nedbør som treffer veiområdet.
+- Må holde tilbake overskuddsvann fra oppstrøms tilstøtende trinn 1-veier.
+
+[Se notatblokktekstfil](https://github.com/NINAnor/SPARE_project/blob/main/layer_veieravren.txt)
+
+**Nedbygging (NINA, 2024)**
+
+NINA brukte en KI-modell laget av Google Dynamic World basert på satellittbilder for å kartlegge nedbygging i Norge de siste fem årene i forbindelse med NRK-saken «Norge i rødt, hvitt og grått».
+[NINA, 2024](https://www.nina.no/Om-NINA/Aktuelt/Nyheter/article/kartlegg-nedbygging-av-natur-selv)
 
 **Luftforurensing (NILU, 2015)**
 
@@ -112,17 +107,17 @@ Laget gir en visuell oversikt over hvor trær bidrar til grønnstruktur og økos
 Tilgjengeligheten til sammenhengende trekroner ble beregnet basert på det tilgjengelige arealet av middels små, middels store og store sammenhengende trekroner med en høyde på over 10 m innenfor en avstand på 200 m. Lave verdier viser høy etterspørsel etter planting av nye trær på grunn av lav tilgjengelighet, og høye verdier viser lav etterspørsel etter planting av nye trær på grunn av høy tilgjengelighet.
 
 
-**3 trær fra hjem (NINA, 2024)**
+**3 tre synlige fra boligbygg per grunnkretser (NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Alle beboere må kunne se minst tre trær fra hjemmet sitt. Indikatoren er beregnet per grunnkrets.
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
-**30% trekronedekning (NINA, 2024)**
+**30% trekronedekning i boligbygg per grunnkretser (NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Det bør være minst 30 % dekning av trekronene i nabolaget. Nabolaget er definert som grunnkrets.
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
 
-**300 meter til nærmeste grøntområde (NINA, 2024)**
+**300 m fra boligbygg til nærmeste grøntområder per grunnkretser  (NINA, 2024)**
 
 Dette laget er basert på 3 30 300-regelen. Det bør være maksimalt 300 meter til nærmeste park eller grøntområde på minst 1 hektar. 
 [Barton et al., 2024](https://brage.nina.no/nina-xmlui/handle/11250/3134268)
