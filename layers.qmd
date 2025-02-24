@@ -101,12 +101,13 @@ Temperaturen på landoverflaten ble avledet fra Landsat 8 OLI/TIRS-sensorene som
 
 **Overflateavrenning (NINA, 2022)**
 
+Overflateavrenning kartlaget er en hydrologisk modell basert på årsbasis på eiendomsnivå for beregning av kommunale overvannsgebyrer. Modellen er utviklet med utgangspunkt i de arealbrukstypene som er forenlige med tiltak i Oslo kommunes Blågrønn faktor-metode.
 [Barton et al., 2021](https://niva.brage.unit.no/niva-xmlui/bitstream/handle/11250/2984562/BartonBrukerfinansiertVann2021bl%25C3%25A5.pdf?sequence=1&isAllowed=y)
 
 
 **Tilgjengelig areal av større treklynger (NINA, 2022)**
 
-Tilgjengeligheten til sammenhengende trekroner ble beregnet basert på det tilgjengelige arealet av middels små, middels store og store sammenhengende trekroner med en høyde på over 10 m innenfor en avstand på 200 m. Lave verdier viser høy etterspørsel etter planting av nye trær på grunn av lav tilgjengelighet, og høye verdier viser lav etterspørsel etter planting av nye trær på grunn av høy tilgjengelighet.
+Kartlaget tar hensyn til det tilgjengelige området med middels små, middels store og store sammenhengende trekroner som er høyere enn 10 m innenfor en euklidsk avstand på 200 m.
 
 
 **3 tre synlige fra boligbygg per grunnkretser (NINA, 2024)**
@@ -137,5 +138,5 @@ D - Ikke verdisatt friluftsområde
 
 **Trekronesynlighet (NINA, 2022)**
 
-
+Laget representerer den visuelle eksponeringen for urbane grøntområder fra et menneskelig perspektiv. Basert på geospatial modellering med utsiktsanalyse kan dette være et pålitelig og svært nøyaktig gjennomsnitt. 
 [Cimburova & Blumentrath, 2022](https://doi.org/10.1016/j.landurbplan.2022.104395)
