@@ -4,4 +4,4 @@ Mål: En interaktiv GIS-kartportal inneholder digitale kart som viser kartene la
 
 Figur
 
-![](Kartportal.png)
+![](intro_figure.PNG)
