@@ -38,14 +38,14 @@ Klassifisering av bymorfologi organiserer urbane kvartaler i fem hovedgrupper, s
 Laget viser befolkningstettheten per grunnkrets. 
 [SSB, 2017](https://www.ssb.no/statbank/table/04317) 
 
-**Friluftslivområder (Miljodirektoratet, 2021)**
+**Friluftslivområder (Miljødirektoratet, 2021)**
 
 Områder som er kartlagt og verdsatt av kommunen for allmennhetens friluftsliv.
 [Miljødirektoratet, 2021](https://www.miljodirektoratet.no/globalassets/publikasjoner/m98/m98.PDF)
 
 ## Areal
 
-**Parker (Oslo Kommune, 2020)**
+**Parker (Oslo Kommune, 2018)**
 
 Laget «Parker» viser grøntområder forvaltet av Bymiljøetaten og bydelene.  
 
@@ -61,7 +61,7 @@ Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter trepl
 Kartlaget "Honningbie-frie soner i Oslo byggesonen" viser områder innenfor byggesonen hvor det er restriksjoner på hold av honningbier. 
 Disse sonene er opprettet for å beskytte villbier og andre pollinatorer som kan bli påvirket av konkurranse med honningbier.
 
-**Naturvernområder (Miljodirektoratet, 2020)**
+**Naturvernområder (Miljødirektoratet, 2020)**
 
 Laget gir en oversikt over hvilke områder som er vernet etter følgende lover: Naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, naturvernloven av 1954, Jan Mayen-loven av 1930 og naturvernloven av 1910.
 
@@ -85,10 +85,9 @@ NINA brukte en KI-modell laget av Google Dynamic World basert på satellittbilde
 **Luftforurensing (NILU, 2015)**
 
 Luftforurensning måles ved å vurdere nivåene av nitrogendioksid (NO₂) og svevestøv med en diameter på 2,5 mikrometer eller mindre (PM₂.₅).
-
 [Cimburova & Barton, 2020](https://doi.org/10.1016/j.ufug.2020.126801)
 
-**Trekroner (fra NINA, 2021)**
+**Trekroner (NINA, 2021)**
 
 Trekroner-kartlaget i Oslo byggesonen viser utbredelsen av trekroner innenfor de urbaniserte områdene av byen. 
 Laget gir en visuell oversikt over hvor trær bidrar til grønnstruktur og økosystemtjenester i byggesonen.
@@ -127,7 +126,7 @@ Dette laget er basert på 3 30 300-regelen. Det bør være maksimalt 300 meter t
 
 ## Økosystemtjeneste
 
-**Friluftslivområder verdi (Miljodirektoratet, 2021)**
+**Friluftslivområder verdi (Miljødirektoratet, 2021)**
 
 Laget viser områder som er spesielt egnet for friluftsliv, der folk kan oppholde seg og nyte naturen på en ikke-motorisert og skånsom måte. Disse områdene har en viktig verdi for både fysisk og psykisk helse, rekreasjon og trivsel.Friluftslivsområdene er verdsatt som:
 
