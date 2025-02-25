@@ -86,7 +86,7 @@ NINA brukte en KI-modell laget av Google Dynamic World basert på satellittbilde
 
 Luftforurensning måles ved å vurdere nivåene av nitrogendioksid (NO₂) og svevestøv med en diameter på 2,5 mikrometer eller mindre (PM₂.₅).
 
-[Cimburova & Blarton, 2020](https://doi.org/10.1016/j.ufug.2020.126801)
+[Cimburova & Barton, 2020](https://doi.org/10.1016/j.ufug.2020.126801)
 
 **Trekroner (fra NINA, 2021)**
 
