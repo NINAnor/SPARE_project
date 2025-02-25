@@ -41,7 +41,7 @@ Laget viser befolkningstettheten per grunnkrets.
 **Friluftslivområder (Miljodirektoratet, 2021)**
 
 Områder som er kartlagt og verdsatt av kommunen for allmennhetens friluftsliv.
-[Miljodirektoratet, 2021](https://www.miljodirektoratet.no/globalassets/publikasjoner/m98/m98.PDF)
+[Miljødirektoratet, 2021](https://www.miljodirektoratet.no/globalassets/publikasjoner/m98/m98.PDF)
 
 ## Areal
 
