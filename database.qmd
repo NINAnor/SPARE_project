@@ -2,4 +2,4 @@
 
 Denne portalen gjør det mulig å laste ned kartlagene som er produsert av SPARE-prosjektet.
 
-[Database](https://maps-test.nina.no) 
+[Database](https://maps-test.nina.no/map-portals/6f35dd78-e141-4614-9393-170735f3d724/preview/localEA) 
