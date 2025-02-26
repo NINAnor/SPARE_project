@@ -38,7 +38,7 @@ Klassifisering av bymorfologi organiserer urbane kvartaler i fem hovedgrupper, s
 Laget viser befolkningstettheten per grunnkrets. 
 [SSB, 2017](https://www.ssb.no/statbank/table/04317) 
 
-**Friluftslivområder (Oslo Kommune, 2022)**
+**Friluftslivområder (Oslo Kommune, 2021)**
 
 Områder som er kartlagt og verdsatt av kommunen for allmennhetens friluftsliv.
 [Miljødirektoratet, 2021](https://www.miljodirektoratet.no/globalassets/publikasjoner/m98/m98.PDF)
