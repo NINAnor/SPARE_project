@@ -7,7 +7,7 @@ Kartet er organisert med utgangspunkt i Naturregnskap (Økosystemregnskap). Kate
 
 ![](transparency_new.PNG)
 
-Det ble utviklet en alternativ måte å organisere dataene på. Dataene ble strukturert under temaene klimatilpasning, natur og helse, slik det fremgår av figuren nedenfor (https://experience.arcgis.com/experience/7cc9ee07dece4a4585ba5c5be0773fe3). Det ble imidlertid valgt å bruke kategoriseringen av naturgnskapet.
+Det ble utviklet en alternativ måte å organisere dataene på. Dataene ble strukturert under temaene klimatilpasning, natur og helse, slik det fremgår av figuren nedenfor [kart](https://experience.arcgis.com/experience/7cc9ee07dece4a4585ba5c5be0773fe3). Det ble imidlertid valgt å bruke kategoriseringen av naturgnskapet.
 
 ![](kartportal_klima.PNG)
 
