@@ -133,7 +133,6 @@ Dette laget er basert på 3 30 300-regelen. Det bør være maksimalt 300 meter t
 **Friluftslivområder verdi (Oslo Kommune, 2021)**
 
 Laget viser områder som er spesielt egnet for friluftsliv, der folk kan oppholde seg og nyte naturen på en ikke-motorisert og skånsom måte. Disse områdene har en viktig verdi for både fysisk og psykisk helse, rekreasjon og trivsel. Friluftslivsområdene er verdsatt som:
-
 A - Svært viktig friluftslivsområde
 B - Viktig friluftsområde
 C - Registrert friluftsområde
