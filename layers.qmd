@@ -57,13 +57,15 @@ Laget «Parker» viser grøntområder forvaltet av Bymiljøetaten og bydelene.
 
 **Egnethet for pollinerende insekter (NINA, 2022)**
 
-Pollinatorhabitatets egnethet viser lave verdier - lav etterspørsel etter treplanting på grunn av høyt pollinatorpotensial - og høye verdier - høy etterspørsel etter treplanting på grunn av lavt pollinatorpotensial.
+Pollinatorhabitatets egnethet viser variasjon i den tidsmessige tilgjengeligheten av blomsterressurser.
+Oslo sentrum tilbyr relativt få blomsterressurser for pollinerende insekter. Laget illustrerer også en stripe med lave habitatverdier som strekker seg fra sentrum og nordøstover, noe som korresponderer med områder med tett handels- og industriinfrastruktur og høy biltrafikk.
 [Stange et al., 2017](https://doi.org/10.3897/oneeco.2.e14014)
 
-**Honningbie frie soner (dato ukjent)**
+**Honningbie frie soner (BYM, dato ukjent)**
 
 Kartlaget "Honningbie-frie soner i Oslo byggesonen" viser områder innenfor byggesonen hvor det er restriksjoner på hold av honningbier. 
 Disse sonene er opprettet for å beskytte villbier og andre pollinatorer som kan bli påvirket av konkurranse med honningbier.
+[BYM](https://www.oslo.kommune.no/natur-kultur-og-fritid/urbant-landbruk/birokt-i-oslo/#toc-6)
 
 **Naturvernområder (Miljødirektoratet, 2020)**
 
